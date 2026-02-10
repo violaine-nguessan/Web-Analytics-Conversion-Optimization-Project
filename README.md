@@ -1,5 +1,7 @@
 # 📊 Web Analytics & Conversion Optimization Project
 
+
+
 ## Executive Summary
 
 This project analyzes web analytics data from the Google Analytics demo dataset using SQL and Python to uncover actionable insights about conversion rates, customer behavior, and marketing performance. The goal is to help businesses optimize marketing investments, improve conversion performance, and identify high-value customer segments.
